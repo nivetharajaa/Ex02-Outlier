@@ -278,6 +278,10 @@ sns.boxplot(x="height",data=df2)
 
 ![Screenshot from 2023-03-27 22-12-11](https://user-images.githubusercontent.com/120543388/228008171-e0186b9f-d397-480f-b6e4-e061e3b86d46.png)
 
+##Result:
+
+###Thus the outliers are detected and removed in the given file and the final data set is saved into the file.
+
 
 
 
