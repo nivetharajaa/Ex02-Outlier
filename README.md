@@ -214,6 +214,75 @@ sns.boxplot(x="height",data=df2)
 
 ###Dataset after removal of outlier using z score:
 
+![Screenshot from 2023-03-27 21-29-16](https://user-images.githubusercontent.com/120543388/228001284-89382c33-5b1a-4b62-a855-f38f4b426f95.png)
+
+##Shape of Dataset after removal of outlier using z score:
+
+![Screenshot from 2023-03-27 21-31-59](https://user-images.githubusercontent.com/120543388/228001703-391b9452-cc7c-4ec7-b44d-fe77bb549bfc.png)
+
+##(4) For the data set height_weight.csv detect weight and height outliers using IQR method:
+
+##Dataset:
+
+![Screenshot from 2023-03-27 21-33-29](https://user-images.githubusercontent.com/120543388/228002208-caf35363-ecb3-4c4d-9cb6-695372f8db20.png)
+
+##Dataset Head:
+
+![Screenshot from 2023-03-27 21-36-36](https://user-images.githubusercontent.com/120543388/228002533-5ed38c2a-d459-4c25-a22e-110627511325.png)
+
+##Dataset Info:
+
+![Screenshot from 2023-03-27 21-51-52](https://user-images.githubusercontent.com/120543388/228002885-dd71a69c-d9ea-4378-b9d8-eb1efd9c3e54.png)
+
+##Dataset Describe:
+
+![Screenshot from 2023-03-27 21-53-33](https://user-images.githubusercontent.com/120543388/228003293-f944fb67-27ba-432c-a70d-734b4f8b5aca.png)
+
+##Null Values:
+
+![Screenshot from 2023-03-27 21-55-23](https://user-images.githubusercontent.com/120543388/228003712-d5627253-58f5-4485-8de2-bee5e920a97e.png)
+
+##Dataset Shape:
+
+![Screenshot from 2023-03-27 21-56-52](https://user-images.githubusercontent.com/120543388/228004083-e659dd57-8cf1-4ec2-8a48-53d7e2bd1819.png)
+
+##Weight - With outliers:
+
+![Screenshot from 2023-03-27 21-58-36](https://user-images.githubusercontent.com/120543388/228004500-1127cf0b-5047-468a-9ce1-c093e24e8155.png)
+
+##Weight - Dataset after removing Outliers using IQR method:
+
+![Screenshot from 2023-03-27 22-00-11](https://user-images.githubusercontent.com/120543388/228004867-21fa6ed9-84b8-441a-809e-e09c6e177fa6.png)
+
+##Weight - Shape of Dataset after removing Outliers using IQR method:
+
+![Screenshot from 2023-03-27 22-02-00](https://user-images.githubusercontent.com/120543388/228005296-108e03bf-5395-4a83-9948-23f68ee6a447.png)
+
+##Weight - Without Outliers using IQR method:
+
+![Screenshot from 2023-03-27 22-04-47](https://user-images.githubusercontent.com/120543388/228006203-257665ae-ddc6-422e-82c1-43b265f16b2c.png)
+
+##Height - With outliers:
+
+![Screenshot from 2023-03-27 22-08-17](https://user-images.githubusercontent.com/120543388/228007215-8aed10f9-7e01-4bc6-8a00-6f794c24d4f3.png)
+
+##Height - Dataset after removing Outliers using IQR method:
+
+![Screenshot from 2023-03-27 22-09-55](https://user-images.githubusercontent.com/120543388/228007558-f05b0825-3888-483b-8fb9-fd691a0c9a70.png)
+
+##Height - Shape of Dataset after removing Outliers using IQR method:
+
+![Screenshot from 2023-03-27 22-11-11](https://user-images.githubusercontent.com/120543388/228007875-c5402a93-c84b-4777-88bd-0727a4a7ac67.png)
+
+##Height - Without Outliers using IQR method:
+
+![Screenshot from 2023-03-27 22-12-11](https://user-images.githubusercontent.com/120543388/228008171-e0186b9f-d397-480f-b6e4-e061e3b86d46.png)
+
+
+
+
+
+
 
 
 
