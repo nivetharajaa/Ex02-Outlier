@@ -178,10 +178,45 @@ sns.boxplot(x="height",data=df2)
 
 ![Screenshot from 2023-03-25 11-32-06](https://user-images.githubusercontent.com/120543388/227699972-58a3fda0-541e-470b-bb0b-e55f2baf7d58.png)
 
-Dataset Info :
+##Dataset Info :
 
 ![Screenshot from 2023-03-25 11-38-51](https://user-images.githubusercontent.com/120543388/227700029-4f2da569-27a9-47d9-95f5-a60f4c158be8.png)
 
-Dataset Describe:
+##Dataset Describe:
 
 ![Screenshot from 2023-03-25 11-40-21](https://user-images.githubusercontent.com/120543388/227700121-881f78cf-e0bf-4b82-945a-d63289eaa6d4.png)
+
+##Null Values:
+
+![Screenshot from 2023-03-27 21-18-37](https://user-images.githubusercontent.com/120543388/227994366-3f65fb30-38e2-4a86-b21e-04138acdcccc.png)
+
+##Dataset Shape:
+
+![Screenshot from 2023-03-27 21-20-40](https://user-images.githubusercontent.com/120543388/227994839-22beb4da-c6ef-498d-b8df-12b5fd4799a0.png)
+
+##Box plot of price_per_sqft column with outliers:
+
+![Screenshot from 2023-03-27 21-22-02](https://user-images.githubusercontent.com/120543388/227995246-d0d6bea9-63cc-4d42-82fa-9d46ae4cd0d6.png)
+
+##price_per_sqft - Dataset after removing outliers:
+
+![Screenshot from 2023-03-27 21-23-52](https://user-images.githubusercontent.com/120543388/227995802-a21f1df7-85bb-493b-8fa3-ec59617331cc.png)
+
+##price_per_sqft - Shape of Dataset after removing outliers :
+
+![Screenshot from 2023-03-27 21-25-51](https://user-images.githubusercontent.com/120543388/227996262-e4804b79-1efa-4ddc-b26b-1b961f12d522.png)
+
+##Box Plot of price_per_sqft column without outliers:
+
+![Screenshot from 2023-03-27 21-27-28](https://user-images.githubusercontent.com/120543388/227996686-f464022a-9de8-4609-bb81-cc30dd8f1690.png)
+
+##(3) Examine price_per_sqft column and use zscore of 3 to remove outliers.
+
+###Dataset after removal of outlier using z score:
+
+
+
+
+
+
+
