@@ -44,7 +44,7 @@ Check if the outliersare removed from data set using graphical methods.
 ## Step 8
 Save the final data set into the file.
 
-##Program:
+# Program:
 
 ### 1) & (2) Examine price_per_sqft column and use IQR to remove outliers and create new dataframe.
 
